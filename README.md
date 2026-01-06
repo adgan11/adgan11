@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! I am Adgan</h2>
-<h2 align="center">A passionate Flutter/SwiftUI developer</h3>
+<h2 align="center">A passionate Flutter/SwiftUI and developer</h3>
 <h1 align="center">I AM 👇</h1>
 <h3 align="center">
   a random programmer who likes to make apps, games and websites. I like to meet new people and contribute to their projects!
